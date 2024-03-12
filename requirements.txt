@@ -47,3 +47,7 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Stock prediction
+ultralyticsplus==0.0.28
+ultralytics==8.0.43
