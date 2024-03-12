@@ -1,20 +1,29 @@
-# Data Analysis
+# Stock Data Analysis
 
-A data analysis that I was doing for Enzyme answering problem number 3.
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
-## Instructions
+A jupyter notebooks for all the stocks that I'm currently watching please keep in mind that this isn't always being updated and changes are always being made.
 
-## Linux/Mac
+## ✨ Try it in your browser ✨
 
-`make`
+➡️ **https://jupyterlite.github.io/demo**
 
-## Windaws
+![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
-To install packages
-`pip3 install jupyterlab pandas numpy geopy`
+## Requirements
 
-to run
-`jupyter-lab`
+JupyterLite is being tested against modern web browsers:
 
-1. Once you log into jupyter lab
-2. click the Enzyme_Test.ipynb then just press the play button to run the noteboo
+- Firefox 90+
+- Chromium 89+
+
+## Deploy your JupyterLite website on GitHub Pages
+
+Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+
+## Further Information and Updates
+
+For more info, keep an eye on the JupyterLite documentation:
+
+- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
+- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
