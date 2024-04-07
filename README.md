@@ -1,6 +1,6 @@
-# Stock Data Analysis
+# Journey
 
-A jupyter notebooks for all the stocks that I'm currently watching please keep in mind that this isn't always being updated and changes are always being made.
+A project about my joureny into data analysis, AI, and data visuilzation.
 
 ## ✨ Try it in your browser ✨
 
