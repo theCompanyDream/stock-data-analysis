@@ -6,5 +6,10 @@
       "jupyterlab-kernel-spy",
       "jupyterlab-tour"
     ]
+  },
+  "extensions": {
+    "@jupyterlite/xeus": {
+      "environment_file": "environment.yml"
+    }
   }
 }
